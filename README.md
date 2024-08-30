@@ -14,10 +14,10 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Yogesh's Cloud Journey
 
 [✍️ Introduce yourself]
-
+I am Yogesh Dharya , a CSE graduate from India. I  developed my interest towards cloud and devOps during my college days. The softweware  
 [✍️ Tell us why you started this challenge]
 
 [✍️ Tell us where you want to be at the end of the challenge]

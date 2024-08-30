@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![Will this be below Yes somehow](https://via.placeholder.com/1200x600)
 
 # New post title here
 
